@@ -98,3 +98,4 @@
 1. [《浪潮之巅》](http://blog.csdn.net/zqh6516336520/article/details/77939311)  by 吴军  电子工业出版社。2017年9月 
 1. 《周鸿伟自述：我的互联网方法论》by 周鸿伟，2018年2月 
 1. 《金字塔原理》by 芭芭拉.明托，南海出版公司，2018年3月
+1. [《刻意练习：如何从新手到大师》](https://jordanzheng.github.io/%E3%80%8A%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0%EF%BC%9A%E5%A6%82%E4%BD%95%E4%BB%8E%E6%96%B0%E6%89%8B%E5%88%B0%E5%A4%A7%E5%B8%88%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/) by 安德斯·艾利克森（Anders Ericsson）;罗伯特·普尔（Robert Pool）2018年4月
